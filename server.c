@@ -10,7 +10,7 @@ void doprocessing(int sock)
 {
 // lokalne promenljive
   int n,check;
-  float x, y, result;
+  float result;
   char buffer[256];
   char sendBuff[256];
   char tempstr[256];
